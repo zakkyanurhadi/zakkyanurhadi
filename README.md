@@ -1,11 +1,11 @@
-# Hi there, I'm Vincent - aka [vincentwidyan](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ) 👋
+# Hi there, I'm Zaky - [Zakkya nurhadi](https://www.youtube.com/channel/https://youtube.com/@nothing-qk1sg?si=eTtp2fiQR7Vappgq) 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
 - 👯 I’m looking to collaborate as Data Automation and Analyst
 - 🤔 I’m looking for suggest for Rust Project Ideas
 - 💬 Ask me about anything
-- 📫 How to reach me: vincentwidyan@gmail.com
+- 📫 How to reach me: zakkya.nurhadi@gmail.com
 
 ## Education:
 
@@ -42,8 +42,8 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/UC22xix7qvwpYWnSQ5QEYtAQ#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/https://youtube.com/@nothing-qk1sg?si=eTtp2fiQR7Vappgq#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/https://youtube.com/@nothing-qk1sg?si=eTtp2fiQR7Vappgq#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
@@ -56,4 +56,5 @@
 
 
 
-[webdev]: https://github.com/vincentwidyan/vincentwidyan
+
+[webdev]: https://github.com/zakkya.nurhadi/zakkya.nurhadi
