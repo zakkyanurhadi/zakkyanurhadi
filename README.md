@@ -1,4 +1,4 @@
-# Hi there, I'm Zaky - [Zakkya nurhadi](https://www.youtube.com/channel/https://youtube.com/@nothing-qk1sg?si=eTtp2fiQR7Vappgq) 👋
+# Hi there, I'm Zaky - [Zakkya Nurhadi](https://www.youtube.com/channel/https://youtube.com/@nothing-qk1sg?si=eTtp2fiQR7Vappgq) 👋
 ## About me:
 - 🔭 I’m currently working as Cyber Security
 - 🌱 I’m currently learning Python and Javascript
