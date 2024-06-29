@@ -13,7 +13,7 @@
    - Asistant Laboratorium of Basic Electronics
    - Asistant Laboratorium of Installation
    - Tutor of Engineering Mathematics
- #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPA | Kebumen `2013-2016`
+ #### 2. [SMA N 1 Kebumen](https://www.sman1kebumen.sch.id) | MIPS | Abung Semuli `2020-2023`
    - Chief of Rohkris
 
 ## Work Experience:
@@ -48,11 +48,11 @@
 [![website](./img/twitter-light.svg)](https://twitter.com/zxxznXD#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/zxxznXD#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
+[![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/zakkyanurhadi#gh-light-mode-only)
+[![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/zakkyanurhadi#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/instagram-light.svg)](https://instagram.com/zakkya_n#gh-light-mode-only)
+[![website](./img/instagram-dark.svg)](https://instagram.com/zakkya_n#gh-dark-mode-only)
 
 
 
