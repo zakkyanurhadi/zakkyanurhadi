@@ -42,11 +42,11 @@
 ---
 ### Connect with me:
 
-[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/https://youtube.com/@nothing-qk1sg?si=eTtp2fiQR7Vappgq#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/https://youtube.com/@nothing-qk1sg?si=eTtp2fiQR7Vappgq#gh-dark-mode-only)
+[![website](./img/youtube-light.svg)](https://www.youtube.com/channel/https://youtube.com/UCjaYELQmmXIYww0Ce75NAqg#gh-light-mode-only)
+[![website](./img/youtube-dark.svg)](https://www.youtube.com/channel/https://youtube.com/UCjaYELQmmXIYww0Ce75NAqg#gh-dark-mode-only)
 &nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/vincentwwidyan#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/vincentwwidyan#gh-dark-mode-only)
+[![website](./img/twitter-light.svg)](https://twitter.com/zxxznXD#gh-light-mode-only)
+[![website](./img/twitter-dark.svg)](https://twitter.com/zxxznXD#gh-dark-mode-only)
 &nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/vincentwidyan#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/vincentwidyan#gh-dark-mode-only)
