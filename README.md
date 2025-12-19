@@ -4,14 +4,16 @@
 
 ###
 
-###
+---
 
-<img align="right" height="150"
-     src="img/coding.webp" />
+###
 
 ###
 
 # 💫 About Me:
+
+<img align="right" height="150"
+     src="img/coding.webp" />
 
 - 🎓 I’m currently studying at Politeknik Negeri Lampung, majoring in Information Technology — Informatics Management<br>
 - 🔭 I’m currently exploring Cyber Security and Cloud Computing<br>
