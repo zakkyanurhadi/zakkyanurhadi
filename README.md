@@ -6,9 +6,8 @@
 
 ###
 
-<a href="https://s12.gifyu.com/images/bEahY.gif">
-  <img src="https://s12.gifyu.com/images/bEahY.gif" height="150">
-</a>
+<img align="right" height="150"
+     src="img/coding.webp" />
 
 ###
 
@@ -45,9 +44,8 @@
 
 ###
 
-<a href="https://s12.gifyu.com/images/bEahY.gif">
-  <img src="https://s12.gifyu.com/images/bEahY.gif" height="150">
-</a>
+<img align="right" height="150"
+     src="img/coding.webp" />
 
 ###
 
