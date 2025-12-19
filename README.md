@@ -7,7 +7,7 @@
 ###
 
 <img align="right" height="150"
-     src="https://raw.githubusercontent.com/zakkyanurhadi/zakkyanurhadi/main/img/coding.gif" />
+     src="https://s12.gifyu.com/images/bEahY.gif" />
 
 ###
 
@@ -45,7 +45,7 @@
 ###
 
 <img align="right" height="150"
-     src="https://raw.githubusercontent.com/zakkyanurhadi/zakkyanurhadi/main/img/coding.gif" />
+     src="https://s12.gifyu.com/images/bEahY.gif" />
 
 ###
 
